@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PK2_Stephan
+namespace PK2_Stephan.Praktikum14
 {
-    class Program
+    class Main
     {
-        static void Main(string[] args)
+        static Main()
         {
-
 
         }
     }
