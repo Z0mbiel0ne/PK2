@@ -11,9 +11,7 @@
  * Created on 22. Juli 2017, 13:24
  */
 
-#include <cstdlib>
-
-using namespace std;
+#include <iostream>
 
 /*
  * 

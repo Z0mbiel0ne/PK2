@@ -1,0 +1,5 @@
+C:\git\PK2\C#\Stephan\PK2 Stephan\Praktikum14\bin\Debug\Praktikum14.exe.config
+C:\git\PK2\C#\Stephan\PK2 Stephan\Praktikum14\bin\Debug\Praktikum14.exe
+C:\git\PK2\C#\Stephan\PK2 Stephan\Praktikum14\bin\Debug\Praktikum14.pdb
+C:\git\PK2\C#\Stephan\PK2 Stephan\Praktikum14\obj\Debug\Praktikum14.exe
+C:\git\PK2\C#\Stephan\PK2 Stephan\Praktikum14\obj\Debug\Praktikum14.pdb

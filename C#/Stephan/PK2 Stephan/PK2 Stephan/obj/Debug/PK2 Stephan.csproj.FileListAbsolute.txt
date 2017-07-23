@@ -1,1 +1,6 @@
 C:\Users\Marcel\Documents\GitHub\PK2\C#\Stephan\PK2 Stephan\PK2 Stephan\bin\Debug\PK2 Stephan.exe.config
+C:\git\PK2\C#\Stephan\PK2 Stephan\PK2 Stephan\bin\Debug\PK2 Stephan.exe.config
+C:\git\PK2\C#\Stephan\PK2 Stephan\PK2 Stephan\bin\Debug\PK2 Stephan.exe
+C:\git\PK2\C#\Stephan\PK2 Stephan\PK2 Stephan\bin\Debug\PK2 Stephan.pdb
+C:\git\PK2\C#\Stephan\PK2 Stephan\PK2 Stephan\obj\Debug\PK2 Stephan.exe
+C:\git\PK2\C#\Stephan\PK2 Stephan\PK2 Stephan\obj\Debug\PK2 Stephan.pdb
