@@ -1,0 +1,6 @@
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\Praktikum 13\Indexer\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\Praktikum 13\Indexer\Indexer\bin\Debug\Indexer.exe
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\Praktikum 13\Indexer\Indexer\bin\Debug\Indexer.pdb
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\Praktikum 13\Indexer\Indexer\obj\Debug\Indexer.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\Praktikum 13\Indexer\Indexer\obj\Debug\Indexer.exe
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\Praktikum 13\Indexer\Indexer\obj\Debug\Indexer.pdb
