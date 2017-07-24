@@ -5,20 +5,21 @@
  */
 
 /* 
- * File:   main.c
+ * File:   main.cpp
  * Author: Klimek
  *
- * Created on 24. Juli 2017, 09:45
+ * Created on 24. Juli 2017, 16:27
  */
 
-#include <stdio.h>
-#include <stdlib.h>
+#include <cstdlib>
+
+using namespace std;
 
 /*
  * 
  */
 int main(int argc, char** argv) {
 
-    return (EXIT_SUCCESS);
+    return 0;
 }
 
