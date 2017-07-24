@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=pk2_stephan
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/pk2_stephan
+CND_ARTIFACT_NAME_Debug=praktikum3
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/praktikum3
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=pk2stephan.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/pk2stephan.tar
+CND_PACKAGE_NAME_Debug=praktikum3.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/praktikum3.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=pk2_stephan
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/pk2_stephan
+CND_ARTIFACT_NAME_Release=praktikum3
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/praktikum3
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=pk2stephan.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/pk2stephan.tar
+CND_PACKAGE_NAME_Release=praktikum3.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/praktikum3.tar
 #
 # include compiler specific variables
 #
