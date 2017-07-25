@@ -35,7 +35,7 @@ namespace Praktikum14
             public void ausgabe(Object sender, Auto.Fuhrpark.AddEventArgs args)
             {
                 Auto.Auto a = args.auto;
-
+                
                 Console.WriteLine("Das Auto von " + a.hersteller + " aus dem Jahr " + a.baujahr + " wurde hinzugefügt.");
             }
         }

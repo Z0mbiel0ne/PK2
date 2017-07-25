@@ -1,0 +1,6 @@
+C:\git\PK2\C#\Stephan\PK2 Stephan\Prakitkum 13\bin\Debug\Prakitkum 13.exe.config
+C:\git\PK2\C#\Stephan\PK2 Stephan\Prakitkum 13\bin\Debug\Prakitkum 13.exe
+C:\git\PK2\C#\Stephan\PK2 Stephan\Prakitkum 13\bin\Debug\Prakitkum 13.pdb
+C:\git\PK2\C#\Stephan\PK2 Stephan\Prakitkum 13\obj\Debug\Prakitkum 13.exe
+C:\git\PK2\C#\Stephan\PK2 Stephan\Prakitkum 13\obj\Debug\Prakitkum 13.pdb
+C:\git\PK2\C#\Stephan\PK2 Stephan\Prakitkum 13\obj\Debug\Prakitkum 13.csprojResolveAssemblyReference.cache

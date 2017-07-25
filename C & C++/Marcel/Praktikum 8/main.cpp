@@ -68,16 +68,11 @@ class Bild : public Medium
 
 int main(int argc, char** argv) 
 {
-    Medium *test[2];
+    int SIZE = 10;
     
-    Audio *a;
-    a = new Audio("Test", 1997);
-    
-    Bild *b;
-    b = new Bild("Test", 1997, "Essen");
-    
-    test[0] = a;
-    test[1] = b;
-    test[0]->druckeDaten();
-    test[1]->druckeDaten();
+    for (int i = 0; i < SIZE; i++) {
+        Medium* a = new Audio("Test", 1997 + i);
+        a->druckeDaten();
+        free(a);
+    }
 }
