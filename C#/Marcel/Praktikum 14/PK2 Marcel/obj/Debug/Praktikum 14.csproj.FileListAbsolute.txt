@@ -1,0 +1,6 @@
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\PK2 Marcel\PK2 Marcel\bin\Debug\PK2 Marcel.exe.config
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\PK2 Marcel\PK2 Marcel\bin\Debug\PK2 Marcel.exe
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\PK2 Marcel\PK2 Marcel\bin\Debug\PK2 Marcel.pdb
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\PK2 Marcel\PK2 Marcel\obj\Debug\Praktikum 14.csprojResolveAssemblyReference.cache
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\PK2 Marcel\PK2 Marcel\obj\Debug\PK2 Marcel.exe
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\PK2 Marcel\PK2 Marcel\obj\Debug\PK2 Marcel.pdb

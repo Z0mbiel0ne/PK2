@@ -1,0 +1,5 @@
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\Praktikum 13\Praktikum 13\Praktikum 13\bin\Debug\Praktikum 13.exe.config
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\Praktikum 13\Praktikum 13\Praktikum 13\bin\Debug\Praktikum 13.exe
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\Praktikum 13\Praktikum 13\Praktikum 13\bin\Debug\Praktikum 13.pdb
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\Praktikum 13\Praktikum 13\Praktikum 13\obj\Debug\Praktikum 13.exe
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Marcel\Praktikum 13\Praktikum 13\Praktikum 13\obj\Debug\Praktikum 13.pdb

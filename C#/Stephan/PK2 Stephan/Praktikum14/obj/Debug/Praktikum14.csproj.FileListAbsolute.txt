@@ -3,4 +3,9 @@ C:\git\PK2\C#\Stephan\PK2 Stephan\Praktikum14\bin\Debug\Praktikum14.exe
 C:\git\PK2\C#\Stephan\PK2 Stephan\Praktikum14\bin\Debug\Praktikum14.pdb
 C:\git\PK2\C#\Stephan\PK2 Stephan\Praktikum14\obj\Debug\Praktikum14.exe
 C:\git\PK2\C#\Stephan\PK2 Stephan\Praktikum14\obj\Debug\Praktikum14.pdb
+<<<<<<< HEAD
 C:\git\PK2\C#\Stephan\PK2 Stephan\Praktikum14\obj\Debug\Praktikum14.csprojResolveAssemblyReference.cache
+=======
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Stephan\PK2 Stephan\Praktikum14\bin\Debug\Praktikum14.exe.config
+C:\Users\Marcel\Documents\GitHub\PK2\C#\Stephan\PK2 Stephan\Praktikum14\obj\Debug\Praktikum14.pdb
+>>>>>>> 4d287547a95ee50012f15cbe5ea59dfe10c2851b
